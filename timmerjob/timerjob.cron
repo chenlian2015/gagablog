@@ -1,1 +1,1 @@
-0 0 * * * /bin/bash /alidata/timmerjob/dbbackup.sh 
+50 11 * * * /bin/bash /alidata/www/default/timmerjob/dbbackup.sh 
