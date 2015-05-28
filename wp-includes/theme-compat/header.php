@@ -14,7 +14,10 @@ _deprecated_file( sprintf( __( 'Theme without %1$s' ), basename(__FILE__) ), '3.
 <head>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <meta http-equiv="Content-Type" content="<?php bloginfo('html_type'); ?>; charset=<?php bloginfo('charset'); ?>" />
-
+<meta name="keywords" content="professional algorithm"/>
+<meta name="keywords" content="programe algorithm"/>
+<meta name="keywords" content="???? ????"/>
+<meta name="description" content="technology blog"/>
 <title><?php wp_title('&laquo;', true, 'right'); ?> <?php bloginfo('name'); ?></title>
 
 <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" media="screen" />
