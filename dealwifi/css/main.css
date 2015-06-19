@@ -1,0 +1,89 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+body,
+button,
+input,
+textarea {
+	font: 14px/1.5 Segoe UI, Arial, Helvetica, sans-serif;
+}
+img {
+	border: 0px;
+}
+ul,
+li {
+	margin: 0;
+	padding: 0;
+}
+li {
+	list-style: none;
+}
+.clearfix:before,
+.clearfix:after {
+	content: "";
+	display: table;
+}
+.clearfix:after {
+	clear: both;
+}
+.clearfix {
+	*zoom: 1;
+	/*ie6,7*/
+}
+
+.wf_content{ width: 1000px; margin: 0 auto;}
+.wf_first{ background: #2dc87e url(http://img.rafomedia.com/dealwifi/images/fr_bg.png?version=1)  50% 0 repeat-x; background-size:cover; height: 720px;}
+.wf_fr_box{ height: 720px;}
+.wf_fr_box .logo{ padding: 44px 5px 30px;text-align:center;}
+.wf_fr_box .wf_fr_txt{ text-align: center;  color: #fff; font-size: 30px;}
+.wf_fr_down{ padding-top: 112px;}
+.wf_fr_title{ text-align:center;font-size:72px;color:#ffffff;font-weight:200;}
+.wf_down_btn{ display: block; width: 260px; height: 60px;background-color: #ed8b3c;  margin: 0  auto; cursor: pointer;  text-align: center;line-height: 60px;text-decoration:none;color:#ffffff;font-size:16px;border-radius:4px;}
+//.wf_down_btn:hover{ background-position: 0 -119px;}
+//.wf_down_btn:active{ background-position: 0 -239px;}
+.wf_down_btn:hover{ background-color: #f88c35;}
+.wf_down_btn:active{ background-color: #e9791f;}
+.version{ text-align: center; color: #ffffff; font-size: 14px;padding-top:8px;}
+
+.wf_second{ height: 520px;}
+.wf_scd_box{ height: 520px;}
+
+.wf_scd_box img{ float: left; padding: 84px 0 0 60px;}
+.description{ float: right; width: 476px; min-height: 164px; margin-top: 195px;}
+.description h1{  font-size: 48px; font-weight: bold; color: #2dc87e; line-height: 52px;}
+.description p{  font-size: 18px;  color: #666; padding-top: 15px;}
+
+.wf_three{ background:url(../img/bg_2.png); height: 520px;}
+.wf_tr_box img{ float: right; padding: 100px 72px 0 0;}
+
+.wf_tr_box .description{ float: left;  padding-left: 28px; margin-top: 163px;}
+
+.wf_four_box img{ padding-top: 126px;}
+
+.wf_five{ background: #f6f9fb; height: 520px;}
+
+.wf_six{ height: 406px; background: url(http://img.rafomedia.com/dealwifi/images/tu5.png) no-repeat;}
+.wf_six_box .wf_fr_down{ padding-top:165px}
+
+.footer{ height: 150px; background: #2dc87e;color: #bee7d4; text-align: center; font-size: 12px; padding-top: 53px; line-height: 20px;}
+.sub .footer{width:100%;height: 70px;padding-top: 30px;}
+.footer a{  color: #bee7d4; margin: 0 5px; text-decoration: none;}
+
+
+
+/*Simple page style*/
+.box-content{margin:0px auto;width:1064px;position:relative;}
+#new-view-iframe{border:0px;width:100%;}
+#simple-box{margin:0px auto 100px;  font-size:14px;color:#666666;line-height:25px;overflow: auto; clear: both;}
+#simple-box .box-content{padding-left:20px;padding-right:60px;width:985px;}
+#simple-box h1{font-size:35px;color:#2dc87e;margin:55px 0px;}
+#simple-box h2{font-size:26px;margin-bottom:15px;}
+#simple-box p{font-size:14px;color:#666666;line-height:25px;margin-bottom:30px; text-align: justify;}
+#simple-box .p_strong{font-weight: 700;}
+#simple-box strong{background: #00FF00;}
+#simple-box h3{font-size:20px;line-height:22px;color:#333;margin-bottom:15px;}
+#simple-box h4{font-size:14px;color:#044891;margin-bottom:10px;}
+
+.height{height:100%;margin-bottom:-100px;}
